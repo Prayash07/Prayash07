@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prayash07)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Prayash07/Prayash07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
