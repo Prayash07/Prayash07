@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm currently working
+🔭 I'm currently working on
 - Mobile Banking Application
 - Flutter
 - Graphql
