@@ -1,20 +1,21 @@
 ### Hi there 👋
 
-🔭 I'm currently working
-Mobile Banking Application
-Flutter
-Graphql
-Bloc
-Clean Architecture
-Test Driven Development
+- 🔭 I'm currently working
+- Mobile Banking Application
+- Flutter
+- Graphql
+- Bloc
+- Clean Architecture
+- Test Driven Development
 
-🌱 I'm currently Learning
-Golang
-Graphql
-Echo
-Gqlgen
+- 🌱 I'm currently Learning
+- Golang
+- Graphql
+- Echo
+- Gqlgen
 
-📫 How to reach me email: prayashkoirala07@gmail.com
+- 📫 How to reach me 
+- email: prayashkoirala07@gmail.com
 
 <!--
 **Prayash07/Prayash07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
