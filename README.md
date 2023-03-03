@@ -9,7 +9,7 @@
 
 🌱 I'm currently Learning
 - Test Driven Development
-- JavaScript
+- Golang
 
 
 📫 How to reach me 
