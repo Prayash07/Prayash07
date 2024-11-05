@@ -3,13 +3,12 @@
 🔭 I'm currently working on
 - Mobile Banking Application
 - Flutter
-- Graphql
 - Bloc
 - Clean Architecture
 
 🌱 I'm currently Learning
 - Test Driven Development
-- Golang
+- Javascript, TypeScript, Node.js, Nest.js
 
 
 📫 How to reach me 
