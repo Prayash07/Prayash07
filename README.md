@@ -1,14 +1,16 @@
 ### Hi there 👋
 
 🔭 I'm currently working on
-- Mobile Banking Application
+- FinTech
 - Flutter
 - Bloc
 - Clean Architecture
 
 🌱 I'm currently Learning
-- Test Driven Development
-- Javascript, TypeScript, Node.js, Nest.js
+- Javascript,
+- TypeScript,
+- Node.js,
+- Nest.js
 
 
 📫 How to reach me 
