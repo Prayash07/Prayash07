@@ -10,7 +10,6 @@
 - Javascript,
 - TypeScript,
 - Node.js,
-- Nest.js
 
 
 📫 How to reach me 
