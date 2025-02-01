@@ -7,9 +7,10 @@
 - Clean Architecture
 
 🌱 I'm currently Learning
-- Javascript,
-- TypeScript,
-- Node.js,
+- Javascript
+- TypeScript
+- React
+- React Native
 
 
 📫 How to reach me 
