@@ -5,12 +5,13 @@
 - Flutter
 - Bloc
 - Clean Architecture
-
-🌱 I'm currently Learning
 - Javascript
 - TypeScript
 - React
-- React Native
+
+🌱 I'm currently Learning
+- Node.js
+- Express.js
 
 
 📫 How to reach me 
