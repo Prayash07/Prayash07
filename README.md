@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 🔭 I'm currently working on
-- FinTech
 - Flutter
 - Bloc
 - Clean Architecture
