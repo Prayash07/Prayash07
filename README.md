@@ -1,16 +1,17 @@
 ### Hi there 👋
 
 🔭 I'm currently working on
+- Node.js
+- Express.js
+- React
+- Javascript
+- TypeScript
 - Flutter
 - Bloc
 - Clean Architecture
-- Javascript
-- TypeScript
-- React
 
 🌱 I'm currently Learning
-- Node.js
-- Express.js
+- Machine Learning
 
 
 📫 How to reach me 
